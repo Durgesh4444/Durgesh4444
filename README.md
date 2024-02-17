@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sonkusare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Web developer & UI/UX Developer , Frontend Developer</h3>
 
